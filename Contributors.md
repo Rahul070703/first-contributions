@@ -2,6 +2,7 @@
 
 - [Brahim](https://github.com/BrahimChatri)
 - [sanjeev muddala](https://github.com/rohitsanjeev)
+- [Rahul Ahir](https://github.com/Rahul070703)
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
 - [MCorneliussen]https://github.com/MCorneliussen
@@ -40,7 +41,7 @@
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
 - wdbrk
-- [Rahul M Ahir](https://github.com/Rahul070703/first-contributions)
+
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
 - SkMave
