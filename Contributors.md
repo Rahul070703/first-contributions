@@ -40,7 +40,7 @@
 - [Mustafa Ajnawala](https://github.com/MustafaAjnawala)
 - [Stanislaw Mikolajczyk](https://github.com/mikolajczykstanislaw)
 - wdbrk
-- [Rahul Ahir](https://github.com/Rahul070703/first-contributions)
+- [Rahul M Ahir](https://github.com/Rahul070703/first-contributions)
 - Manuel MG
 - [Anish Dusad](https://github.com/anishDusad)
 - SkMave
